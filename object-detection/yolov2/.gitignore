@@ -1,0 +1,10 @@
+coco.names
+imagenet.shortname.list
+*.weights
+*.h5
+*.nnp
+*.jpg
+backup*/
+results*/
+dataset
+output/
